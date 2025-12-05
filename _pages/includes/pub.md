@@ -24,7 +24,7 @@ Yin Xie\*, **Kaicheng Yang\***, Peirou Liang\*, Xiang An, Yongle Zhao, Yumeng Wa
 <div class='paper-box-text' markdown="1">
   
 [Gradient-Attention Guided Dual-Masking Synergetic Framework for Robust Text-based Person Retrieval](https://aclanthology.org/2025.emnlp-main.14.pdf) \\
-Tianlu Zheng\*, Yifan Zhang\*, Xiang An, Ziyong Feng, **Kaicheng Yang\†**, Qichuan Ding (**Corresponding Author**)
+Tianlu Zheng\*, Yifan Zhang\*, Xiang An, Ziyong Feng, **Kaicheng Yang†**, Qichuan Ding (**Corresponding Author**)
 
 [**Arxiv**](https://aclanthology.org/2025.emnlp-main.14.pdf), [**GitHub**](https://github.com/Multimodal-Representation-Learning-MRL/GA-DMS)
 </div>
@@ -67,7 +67,7 @@ Tiancheng Gu\*, **Kaicheng Yang\***, Chaoyi Zhang, Yin Xie, Xiang An, Ziyong Fen
 [Region-based Cluster Discrimination for Visual Representation Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Xie_Region-based_Cluster_Discrimination_for_Visual_Representation_Learning_ICCV_2025_paper.pdf) \\
 Yin Xie\*, **Kaicheng Yang\***, Xiang An\*, Kun Wu, Yongle Zhao, Weimo Deng, Zimin Ran, Yumeng Wang, Ziyong Feng, Roy Miles, Ismail Elezi, Jiankang Deng (**Highlight**, **Equal First Author**)
 
-[**Arxiv**](https://openaccess.thecvf.com/content/ICCV2025/papers/Xie_Region-based_Cluster_Discrimination_for_Visual_Representation_Learning_ICCV_2025_paper.pdf), [**公众号**]https://mp.weixin.qq.com/s/zblF44G7aVet-jyNM5sGVw), [**GitHub**](https://github.com/deepglint/MVT)
+[**Arxiv**](https://openaccess.thecvf.com/content/ICCV2025/papers/Xie_Region-based_Cluster_Discrimination_for_Visual_Representation_Learning_ICCV_2025_paper.pdf), [**公众号**](https://mp.weixin.qq.com/s/zblF44G7aVet-jyNM5sGVw), [**GitHub**](https://github.com/deepglint/MVT)
 </div>
 </div>
 
