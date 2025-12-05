@@ -1,5 +1,35 @@
 # 📄 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2026</div><img src='_pages/includes/image_paper/UniMEV2.jpg' alt="sym" width="320px" height="240px"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning](https://arxiv.org/pdf/2510.13515?) \\
+Tiancheng Gu\*, **Kaicheng Yang\***, kaichen Zhang, Xiang An, Ziyong Feng, yueyi Zhang, Weidong Cai, Jiankang Deng, Lidong Bing (**Oral**, **Equal First Author**)
+
+[**Arxiv**](https://arxiv.org/pdf/2510.13515?), [**公众号**](https://mp.weixin.qq.com/s/LnSqRpnxH33lzmCAFeGfHA), [**GitHub**](https://github.com/GaryGuTC/UniME-v2), [**Project Websit**](https://garygutc.github.io/UniME-v2/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2026</div><img src='_pages/includes/image_paper/ViCToR.jpg' alt="sym" width="320px" height="240px"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[ViCToR: Improving Visual Comprehension via Token Reconstruction for Pretraining LMMs](https://arxiv.org/pdf/2410.14332) \\
+Yin Xie\*, **Kaicheng Yang\***, Peirou Liang\*, Xiang An, Yongle Zhao, Yumeng Wang, Ziyong Feng, Roy Miles, Ismail Elezi, Jiankang Deng (**Equal First Author**)
+
+[**Arxiv**](https://arxiv.org/pdf/2410.14332), [**GitHub**](https://github.com/deepglint/Victor)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP2026</div><img src='_pages/includes/image_paper/GA-DMS.jpg' alt="sym" width="320px" height="240px"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Gradient-Attention Guided Dual-Masking Synergetic Framework for Robust Text-based Person Retrieval](https://aclanthology.org/2025.emnlp-main.14.pdf) \\
+Tianlu Zheng\*, Yifan Zhang\*, Xiang An, Ziyong Feng, **Kaicheng Yang\†**, Qichuan Ding (**Corresponding Author**)
+
+[**Arxiv**](https://aclanthology.org/2025.emnlp-main.14.pdf), [**GitHub**](https://github.com/Multimodal-Representation-Learning-MRL/GA-DMS)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2025</div><img src='_pages/includes/image_paper/DeGLA.jpg' alt="sym" width="320px" height="240px"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -24,20 +54,22 @@ Tiancheng Gu\*, **Kaicheng Yang\***, Ziyong Feng, Xingjun Wang, Yanzhao Zhang, D
 <div class='paper-box-text' markdown="1">
   
 [RealSyn: An Effective and Scalable Multimodal Interleaved Document Transformation Paradigm](https://arxiv.org/pdf/2502.12513) \\
-Tiancheng Gu\*, **Kaicheng Yang\***, Chaoyi Zhang, Yin Xie, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai, Jiankang Deng (**Equal First author**)
+Tiancheng Gu\*, **Kaicheng Yang\***, Chaoyi Zhang, Yin Xie, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai, Jiankang Deng (**Equal First Author**)
 
 [**Arxiv**](https://arxiv.org/pdf/2502.12513), [**公众号**](https://mp.weixin.qq.com/s/CnuVZMSkYHpFwnfaLZ-3qA), [**GitHub**](https://github.com/deepglint/RealSyn), [**Project Websit**](https://garygutc.github.io/RealSyn/)
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS2025</div><img src='_pages/includes/image_paper/DLOV-3D.jpg' alt="sym" width="400px" height="300px"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2025</div><img src='_pages/includes/image_paper/RICE.jpg' alt="sym" width="320px" height="240px"></div></div>
 <div class='paper-box-text' markdown="1">
+  
+[Region-based Cluster Discrimination for Visual Representation Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Xie_Region-based_Cluster_Discrimination_for_Visual_Representation_Learning_ICCV_2025_paper.pdf) \\
+Yin Xie\*, **Kaicheng Yang\***, Xiang An\*, Kun Wu, Yongle Zhao, Weimo Deng, Zimin Ran, Yumeng Wang, Ziyong Feng, Roy Miles, Ismail Elezi, Jiankang Deng (**Highlight**, **Equal First Author**)
 
-Dual-Level Open-Vocabulary 3D Scene Representation for Instance-Aware Robot Navigation \\
-Tianlu Zheng, **Kaicheng Yang\***, Yilong Dou, Ziyong Feng, Qichuan Ding
-
+[**Arxiv**](https://openaccess.thecvf.com/content/ICCV2025/papers/Xie_Region-based_Cluster_Discrimination_for_Visual_Representation_Learning_ICCV_2025_paper.pdf), [**公众号**]https://mp.weixin.qq.com/s/zblF44G7aVet-jyNM5sGVw), [**GitHub**](https://github.com/deepglint/MVT)
 </div>
-</div> -->
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='_pages/includes/image_paper/CLIP-CID.jpg' alt="sym" width="320px" height="240px"></div></div>
 <div class='paper-box-text' markdown="1">
