@@ -1,0 +1,21 @@
+# Work experience
+
+- role: "Algorithm Researcher"
+  organization: "DeepGlint"
+  location: "Beijing, China"
+  period: "2022.07 - Present"
+  type: "Full-time"
+  responsibilities:
+    - "Leading research in multimodal representation learning and vision-language pretraining"
+    - "Developing large-scale data cleaning and processing systems"
+    - "Mentoring interns on multimodal learning, RAG, and Agent systems"
+    - "Publishing papers at top-tier AI conferences (NeurIPS, ICLR, CVPR, ICCV, ACM MM)"
+
+- role: "Algorithm Engineer"
+  organization: "MovieBook"
+  location: "Beijing, China"
+  period: "2021.01 - 2022.06"
+  type: "Full-time"
+  responsibilities:
+    - "Developed computer vision and NLP algorithms for media applications"
+    - "Implemented multimodal sentiment analysis systems"
