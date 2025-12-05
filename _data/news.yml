@@ -2,117 +2,130 @@
 # Each item should have: date, content (brief), and optional link
 
 - date: "2025.11"
-  content: |
+  content: |-
     🎉 **[UniME-V2 (Oral)](https://arxiv.org/pdf/2510.13515)** and **[ViCToR](https://arxiv.org/pdf/2410.14332?)** accepted to AAAI 2026
   highlight: true
 
 - date: "2025.10"
-  content: "Will attend ACM MM25 in Ireland"
+  content: |-
+    Will attend ACM MM25 in Ireland
   
 - date: "2025.10"
-  content: |
-  "Released [UniME-V2](https://arxiv.org/pdf/2510.13515)"
+  content: |-
+    Released [UniME-V2](https://arxiv.org/pdf/2510.13515)
 
 - date: "2025.09"
-  content: |
+  content: |-
     Released [LLaVA-OneVision-1.5](https://arxiv.org/abs/2509.23661)
   highlight: true
 
 - date: "2025.09"
-  content: "🎉 UniViT accepted by NeurIPS 2025"
+  content: |-
+    🎉 UniViT accepted by NeurIPS 2025
   highlight: true
 
 - date: "2025.08"
-  content: |
+  content: |-
     🎉 **[GA-DMS](https://arxiv.org/pdf/2509.09118)** accepted by EMNLP 2025 Main
   highlight: true
 
 - date: "2025.07"
-  content: "🎉 Three papers (RealSyn, UniME, DeGLA) accepted by ACM MM 2025"
+  content: |-
+    🎉 Three papers (RealSyn, UniME, DeGLA) accepted by ACM MM 2025
   highlight: true
 
 - date: "2025.06"
-  content: |
+  content: |-
     🎉 Three papers ([RICE](https://arxiv.org/pdf/2507.20025), [ForCenNet](https://arxiv.org/pdf/2507.19804), [HUST](https://arxiv.org/pdf/2406.13149)) accepted by ICCV 2025
   highlight: true
 
 - date: "2025.06"
-  content: "🎉 DLOV-3D accepted by IROS 2025"
+  content: |-
+    🎉 DLOV-3D accepted by IROS 2025
   highlight: true
 
 - date: "2025.04"
-  content: |
+  content: |-
     Released [DeGLA](https://arxiv.org/abs/2504.16801) and [UniME](https://arxiv.org/pdf/2504.17432)
   highlight: true
 
 - date: "2025.02"
-  content: |
+  content: |-
     Released [RealSyn](https://arxiv.org/abs/2502.12513) Dataset
   highlight: true
 
 - date: "2024.12"
-  content: |
+  content: |-
     🎉 [CLIP-CID](https://arxiv.org/pdf/2408.09441) accepted by AAAI 2025
   highlight: true
 
 - date: "2024.11"
-  content: |
+  content: |-
     🎉 [ORID](https://arxiv.org/pdf/2411.13025) accepted by WACV 2025 (**Oral**)
   highlight: true
 
 - date: "2024.09"
-  content: |
+  content: |-
     🎉 [RWKV-CLIP](https://arxiv.org/abs/2406.06973) accepted by EMNLP 2024 Main
   highlight: true
 
 - date: "2024.07"
-  content: |
+  content: |-
     🎉 [MLCD](https://arxiv.org/pdf/2407.17331) accepted by ECCV 2024
   highlight: true
 
 - date: "2024.04"
-  content: "🏆 1st Place at SkatingVerse Challenge (18th IEEE FG workshop)"
+  content: |-
+    🏆 1st Place at SkatingVerse Challenge (18th IEEE FG workshop)
   highlight: true
 
 - date: "2024.03"
-  content: |
+  content: |-
     🎉 [LaPA](https://arxiv.org/pdf/2404.13039.pdf) accepted by CVPR Workshop 2024
   highlight: true
 
 - date: "2023.09"
-  content: "Will attend ICCV 2023 in Paris"
+  content: |-
+    Will attend ICCV 2023 in Paris
 
 - date: "2023.09"
-  content: "🏆 Co-winner in OpenFAD Challenge (ICCV 2023 workshop)"
+  content: |-
+    🏆 Co-winner in OpenFAD Challenge (ICCV 2023 workshop)
   highlight: true
 
 - date: "2023.07"
-  content: |
+  content: |-
     🎉 [ALIP](https://arxiv.org/abs/2308.08428) accepted by ICCV 2023
   highlight: true
 
 - date: "2023.05"
-  content: "Will attend ICLR 2023 in Kigali"
+  content: |-
+    Will attend ICLR 2023 in Kigali
 
 - date: "2023.01"
-  content: |
+  content: |-
     🎉 [Unicom](https://arxiv.org/pdf/2304.05884.pdf) accepted by ICLR 2023
   highlight: true
 
 - date: "2022.10"
-  content: "🏆 Top 1% (11/1022) in Google Universal Image Embedding Challenge (ECCV 2022)"
+  content: |-
+    🏆 Top 1% (11/1022) in Google Universal Image Embedding Challenge (ECCV 2022)
   highlight: true
 
 - date: "2022.07"
-  content: "Joined DeepGlint as Algorithm Researcher"
+  content: |-
+    Joined DeepGlint as Algorithm Researcher
 
 - date: "2021.01"
-  content: "Joined MovieBook as Algorithm Engineer"
+  content: |-
+    Joined MovieBook as Algorithm Engineer
 
 - date: "2020.10"
-  content: "🎉 CM-BERT accepted by ACM MM 2020 (**Oral**)"
+  content: |-
+    🎉 CM-BERT accepted by ACM MM 2020 (**Oral**)
   highlight: true
 
 - date: "2020.07"
-  content: "🎉 CH-SIMS accepted by ACL 2020"
+  content: |-
+    🎉 CH-SIMS accepted by ACL 2020
   highlight: true
