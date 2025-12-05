@@ -3,7 +3,7 @@
 
 - date: "2025.11"
   content: |-
-    🎉 **[UniME-V2 (Oral)](https://arxiv.org/pdf/2510.13515)** and **[ViCToR](https://arxiv.org/pdf/2410.14332?)** accepted to AAAI 2026
+    🎉 <strong><a href="https://arxiv.org/pdf/2510.13515">UniME-V2 (Oral)</a></strong> and <strong><a href="https://arxiv.org/pdf/2410.14332?">ViCToR</a></strong> accepted to AAAI 2026
   highlight: true
 
 - date: "2025.10"
@@ -12,11 +12,11 @@
   
 - date: "2025.10"
   content: |-
-    Released [UniME-V2](https://arxiv.org/pdf/2510.13515)
+    Released <a href="https://arxiv.org/pdf/2510.13515">UniME-V2</a>
 
 - date: "2025.09"
   content: |-
-    Released [LLaVA-OneVision-1.5](https://arxiv.org/abs/2509.23661)
+    Released <a href="https://arxiv.org/abs/2509.23661">LLaVA-OneVision-1.5</a>
   highlight: true
 
 - date: "2025.09"
@@ -26,7 +26,7 @@
 
 - date: "2025.08"
   content: |-
-    🎉 **[GA-DMS](https://arxiv.org/pdf/2509.09118)** accepted by EMNLP 2025 Main
+    🎉 <strong><a href="https://arxiv.org/pdf/2509.09118">GA-DMS</a></strong> accepted by EMNLP 2025 Main
   highlight: true
 
 - date: "2025.07"
@@ -36,7 +36,7 @@
 
 - date: "2025.06"
   content: |-
-    🎉 Three papers ([RICE](https://arxiv.org/pdf/2507.20025), [ForCenNet](https://arxiv.org/pdf/2507.19804), [HUST](https://arxiv.org/pdf/2406.13149)) accepted by ICCV 2025
+    🎉 Three papers (<a href="https://arxiv.org/pdf/2507.20025">RICE</a>, <a href="https://arxiv.org/pdf/2507.19804">ForCenNet</a>, <a href="https://arxiv.org/pdf/2406.13149">HUST</a>) accepted by ICCV 2025
   highlight: true
 
 - date: "2025.06"
@@ -46,32 +46,32 @@
 
 - date: "2025.04"
   content: |-
-    Released [DeGLA](https://arxiv.org/abs/2504.16801) and [UniME](https://arxiv.org/pdf/2504.17432)
+    Released <a href="https://arxiv.org/abs/2504.16801">DeGLA</a> and <a href="https://arxiv.org/pdf/2504.17432">UniME</a>
   highlight: true
 
 - date: "2025.02"
   content: |-
-    Released [RealSyn](https://arxiv.org/abs/2502.12513) Dataset
+    Released <a href="https://arxiv.org/abs/2502.12513">RealSyn</a> Dataset
   highlight: true
 
 - date: "2024.12"
   content: |-
-    🎉 [CLIP-CID](https://arxiv.org/pdf/2408.09441) accepted by AAAI 2025
+    🎉 <a href="https://arxiv.org/pdf/2408.09441">CLIP-CID</a> accepted by AAAI 2025
   highlight: true
 
 - date: "2024.11"
   content: |-
-    🎉 [ORID](https://arxiv.org/pdf/2411.13025) accepted by WACV 2025 (**Oral**)
+    🎉 <a href="https://arxiv.org/pdf/2411.13025">ORID</a> accepted by WACV 2025 (<strong>Oral</strong>)
   highlight: true
 
 - date: "2024.09"
   content: |-
-    🎉 [RWKV-CLIP](https://arxiv.org/abs/2406.06973) accepted by EMNLP 2024 Main
+    🎉 <a href="https://arxiv.org/abs/2406.06973">RWKV-CLIP</a> accepted by EMNLP 2024 Main
   highlight: true
 
 - date: "2024.07"
   content: |-
-    🎉 [MLCD](https://arxiv.org/pdf/2407.17331) accepted by ECCV 2024
+    🎉 <a href="https://arxiv.org/pdf/2407.17331">MLCD</a> accepted by ECCV 2024
   highlight: true
 
 - date: "2024.04"
@@ -81,7 +81,7 @@
 
 - date: "2024.03"
   content: |-
-    🎉 [LaPA](https://arxiv.org/pdf/2404.13039.pdf) accepted by CVPR Workshop 2024
+    🎉 <a href="https://arxiv.org/pdf/2404.13039.pdf">LaPA</a> accepted by CVPR Workshop 2024
   highlight: true
 
 - date: "2023.09"
@@ -95,7 +95,7 @@
 
 - date: "2023.07"
   content: |-
-    🎉 [ALIP](https://arxiv.org/abs/2308.08428) accepted by ICCV 2023
+    🎉 <a href="https://arxiv.org/abs/2308.08428">ALIP</a> accepted by ICCV 2023
   highlight: true
 
 - date: "2023.05"
@@ -104,7 +104,7 @@
 
 - date: "2023.01"
   content: |-
-    🎉 [Unicom](https://arxiv.org/pdf/2304.05884.pdf) accepted by ICLR 2023
+    🎉 <a href="https://arxiv.org/pdf/2304.05884.pdf">Unicom</a> accepted by ICLR 2023
   highlight: true
 
 - date: "2022.10"
@@ -122,7 +122,7 @@
 
 - date: "2020.10"
   content: |-
-    🎉 CM-BERT accepted by ACM MM 2020 (**Oral**)
+    🎉 CM-BERT accepted by ACM MM 2020 (<strong>Oral</strong>)
   highlight: true
 
 - date: "2020.07"
