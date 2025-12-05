@@ -4,7 +4,7 @@
 {% for item in site.data.news limit:10 %}
   <div class="news-item">
     <span class="news-date">{{ item.date }}</span>
-    <span class="news-content">{{ item.content }}</span>
+    <span class="news-content">{{ item.content | markdownify  }}</span>
   </div>
 {% endfor %}
 </div>
@@ -15,7 +15,7 @@
   {% for item in site.data.news offset:10 %}
     <div class="news-item">
       <span class="news-date">{{ item.date }}</span>
-      <span class="news-content">{{ item.content }}</span>
+      <span class="news-content">{{ item.content | markdownify  }}</span>
     </div>
   {% endfor %}
   </div>
