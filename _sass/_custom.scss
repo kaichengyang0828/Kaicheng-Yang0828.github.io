@@ -217,10 +217,17 @@
   transition: all 0.2s ease;
   cursor: default;
   
-  &:hover {
+  &:hover,
+  &:focus {
     background: var(--color-accent);
     transform: translateY(-2px);
     box-shadow: var(--shadow-md);
+    outline: none;
+  }
+  
+  &:focus {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
   }
 }
 
@@ -298,7 +305,8 @@
 /* Accessibility improvements */
 a:focus,
 button:focus,
-summary:focus {
+summary:focus,
+.service-badge:focus {
   outline: 2px solid var(--color-primary);
   outline-offset: 2px;
 }

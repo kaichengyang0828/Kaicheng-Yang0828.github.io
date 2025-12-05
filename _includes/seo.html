@@ -89,7 +89,9 @@
   "name": "{{ site.author.name }}",
   "url": "{{ seo_url }}",
   "image": "{{ site.author.avatar | prepend: seo_url }}",
-  "jobTitle": "{{ site.description }}",
+  {% if site.author.job_title %}
+  "jobTitle": "{{ site.author.job_title }}",
+  {% endif %}
   "worksFor": {
     "@type": "Organization",
     "name": "DeepGlint"
