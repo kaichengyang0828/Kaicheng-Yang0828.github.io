@@ -1,5 +1,5 @@
+# 📄 Publications
 
-# 💻 Public Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2025</div><img src='_pages/includes/image_paper/DeGLA.jpg' alt="sym" width="320px" height="240px"></div></div>
 <div class='paper-box-text' markdown="1">
   
