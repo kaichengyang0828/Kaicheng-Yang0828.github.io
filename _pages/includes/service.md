@@ -2,7 +2,7 @@
 
 <div class="service-section">
 
-## Conference Reviewing
+**Conference Reviewing:**
 
 <div class="service-conferences">
 {% for conf in site.data.service.conferences %}
@@ -10,7 +10,7 @@
 {% endfor %}
 </div>
 
-## Journal Reviewing
+**Journal Reviewing:**
 
 <div class="service-journals">
 {% for journal in site.data.service.journals %}
