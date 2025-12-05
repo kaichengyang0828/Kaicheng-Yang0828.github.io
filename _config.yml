@@ -7,8 +7,9 @@
 
 # Site Settings
 title                    : "Kaicheng Yang (杨铠成)"
-description              : "Algorithm researcher in DeepGlint"
+description              : "Algorithm Researcher at DeepGlint specializing in multimodal representation learning, vision-language pretraining, and contrastive learning"
 repository               : "Kaicheng-Yang0828/Kaicheng-Yang0828.github.io"
+url                      : "https://kaichengyang0828.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,6 +25,7 @@ author:
   name             : "Kaicheng Yang (杨铠成)"
   avatar           : "images/pic.jpg"
   bio              : "DeepGlint"
+  job_title        : "Algorithm Researcher"
   location         : "Beijing"
   employer         :
   pubmed           : 

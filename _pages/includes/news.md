@@ -1,30 +1,22 @@
-# 🔥 News
-- *2025.11*: 🎉 [UniME-V2(**Oral**)](https://arxiv.org/pdf/2510.13515) and [ViCToR](https://arxiv.org/pdf/2410.14332?) have both been accepted to AAAI 2026.
-- *2025.10*: I will attend ACM MM25, happy to see you in ACM MM (Ireland) in person.
-- *2025.10*: We present the [UniME-V2](https://arxiv.org/pdf/2510.13515).
-- *2025.09*: We present the [LLaVA-OneVision-1.5](https://arxiv.org/abs/2509.23661).
-- *2025.09*: 🎉 UniViT have been accepted by NeurIPS2025.
-- *2025.08*: 🎉 [GA-DMS](https://arxiv.org/pdf/2509.09118) has been accepted by EMNLP2025 Main.
-- *2025.07*: 🎉 Three papers (RealSyn, UniME, DeGLA) have been accepted by ACM MM2025.
-- *2025.06*: 🎉 Three papers ([RICE](https://arxiv.org/pdf/2507.20025), [ForCenNet](https://arxiv.org/pdf/2507.19804), [HUST](https://arxiv.org/pdf/2406.13149)) have been accepted by ICCV2025.
-- *2025.06*: 🎉 DLOV-3D has been accepted by IROS2025.
-- *2025.04*: We present the [DeGLA](https://arxiv.org/abs/2504.16801) and [UniME](https://arxiv.org/pdf/2504.17432)
-- *2025.02*: We present the [RealSyn](https://arxiv.org/abs/2502.12513) Dataset.
-- *2024.12*: 🎉 [CLIP-CID](https://arxiv.org/pdf/2408.09441) has been accepted by AAAI2025.
-- *2024.11*: 🎉 [ORID](https://arxiv.org/pdf/2411.13025) has been accepted by WACV2025(**Oral**).
-- *2024.10*: We present the [Croc](https://arxiv.org/abs/2410.14332).
-- *2024.09*: 🎉 [RWKV-CLIP](https://arxiv.org/abs/2406.06973) has been accepted by EMNLP2024(Main).
-- *2024.07*: 🎉 [MLCD](https://arxiv.org/pdf/2407.17331) has been accepted by ECCV2024.
-- *2024.06*: We present the [High-Fidelity Facial Albedo](https://arxiv.org/pdf/2406.13149).
-- *2024.04*: Our team achieve 1st Place on the [1st SkatingVerse Challenge(18th IEEE International Conference on Automatic Face and Gesture Recognition workshop)](https://skatingverse.github.io/).
-- *2024.03*: 🎉 [LaPA](https://arxiv.org/pdf/2404.13039.pdf) has been accepted by CVPRW2024.
-- *2023.09*: I will attend ICCV2023, happy to see you in ICCV (Paris) in person.
-- *2023.09*: 🎉 Our team achieve co-winner in [OpenFAD Challenge(ICCV2023 workshop)](https://openfad.nist.gov).
-- *2023.07*: 🎉 [ALIP](https://arxiv.org/abs/2308.08428) has been accepted by ICCV2023.
-- *2023.05*: I will attend ICLR2023, happy to see you in ICLR (Kigali) in person.
-- *2023.01*: 🎉 [Unicom](https://arxiv.org/pdf/2304.05884.pdf) has been accepted by ICLR2023.
-- *2022.10*: We achieve 11/1022(top 1%) in the [Google Universal Image Embedding Challenge(ECCV2022 Instance-Level Recognition workshop)](https://www.kaggle.com/competitions/google-universal-image-embedding/overview/eccv-2022).
-- *2022.07*: I joined DeepGlint as an algorithm researcher.
-- *2021.01*: I joined MovieBook as an algorithm engineer.
-- *2020.10*: 🎉 CM-BERT has been accepted by ACM MM2020(**Oral**).
-- *2020.07*: 🎉 CH-SIMS has been accepted by ACL2020.
+# 🔥 Recent News
+
+<div class="news-list">
+{% for item in site.data.news limit:10 %}
+  <div class="news-item">
+    <span class="news-date">{{ item.date }}</span>
+    <span class="news-content">{{ item.content }}</span>
+  </div>
+{% endfor %}
+</div>
+
+<details class="news-archive">
+  <summary role="button" aria-expanded="false" aria-controls="archived-news"><strong>Show More News</strong></summary>
+  <div id="archived-news" class="news-list">
+  {% for item in site.data.news offset:10 %}
+    <div class="news-item">
+      <span class="news-date">{{ item.date }}</span>
+      <span class="news-content">{{ item.content }}</span>
+    </div>
+  {% endfor %}
+  </div>
+</details>

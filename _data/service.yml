@@ -1,0 +1,51 @@
+# Professional service and reviewing
+
+conferences:
+  - name: "NeurIPS"
+    full_name: "Conference on Neural Information Processing Systems"
+    role: "Reviewer"
+    
+  - name: "ICLR"
+    full_name: "International Conference on Learning Representations"
+    role: "Reviewer"
+    
+  - name: "CVPR"
+    full_name: "IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+    role: "Reviewer"
+    
+  - name: "ICCV"
+    full_name: "IEEE/CVF International Conference on Computer Vision"
+    role: "Reviewer"
+    
+  - name: "ECCV"
+    full_name: "European Conference on Computer Vision"
+    role: "Reviewer"
+    
+  - name: "ACM MM"
+    full_name: "ACM International Conference on Multimedia"
+    role: "Reviewer"
+    
+  - name: "AAAI"
+    full_name: "AAAI Conference on Artificial Intelligence"
+    role: "Reviewer"
+    
+  - name: "ACL"
+    full_name: "Annual Meeting of the Association for Computational Linguistics"
+    role: "Reviewer"
+    
+  - name: "EMNLP"
+    full_name: "Conference on Empirical Methods in Natural Language Processing"
+    role: "Reviewer"
+    
+  - name: "NAACL"
+    full_name: "North American Chapter of the Association for Computational Linguistics"
+    role: "Reviewer"
+
+journals:
+  - name: "TMM"
+    full_name: "IEEE Transactions on Multimedia"
+    role: "Reviewer"
+    
+  - name: "ESWA"
+    full_name: "Expert Systems with Applications"
+    role: "Reviewer"
