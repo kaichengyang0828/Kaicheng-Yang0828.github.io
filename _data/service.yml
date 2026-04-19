@@ -8,6 +8,10 @@ conferences:
   - name: "ICLR"
     full_name: "International Conference on Learning Representations"
     role: "Reviewer"
+  
+  - name: "ICML"
+    full_name: "International Conference on Machine Learning"
+    role: "Reviewer"
     
   - name: "CVPR"
     full_name: "IEEE/CVF Conference on Computer Vision and Pattern Recognition"
@@ -48,4 +52,8 @@ journals:
     
   - name: "ESWA"
     full_name: "Expert Systems with Applications"
+    role: "Reviewer"
+
+  - name: "TNNLS"
+    full_name: "IEEE Transactions on Neural Networks and Learning Systems"
     role: "Reviewer"

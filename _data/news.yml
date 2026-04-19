@@ -1,26 +1,36 @@
 # Recent news and updates
 # Each item should have: date, content (brief), and optional link
+- date: "2026.02"
+  content: |-
+    We release <a href="https://arxiv.org/abs/2604.14967">UniDoc-RL</a> 
+  highlight: true
+
+- date: "2026.02"
+  content: |-
+    🎉 <strong><a href="https://arxiv.org/pdf/2509.09118">StreamingRVOS</a></strong> accepted by CVPR2026
+  highlight: true
+
 - date: "2026.01"
   content: |-
-    Released <a href="https://arxiv.org/abs/2601.10305">DanQing</a> Dataset
+    We release <a href="https://arxiv.org/abs/2601.10305">DanQing</a> Dataset
   highlight: true
 
 - date: "2025.11"
   content: |-
-    🎉 <strong><a href="https://arxiv.org/pdf/2510.13515">UniME-V2 (Oral)</a></strong> and <strong><a href="https://arxiv.org/pdf/2410.14332?">ViCToR</a></strong> accepted to AAAI 2026
+    🎉 <strong><a href="https://arxiv.org/pdf/2510.13515">UniME-V2 (Oral)</a></strong> and <strong><a href="https://arxiv.org/pdf/2410.14332?">ViCToR</a></strong> accepted by AAAI 2026
   highlight: true
 
 - date: "2025.10"
   content: |-
-    Will attend ACM MM25 in Ireland
+    I will attend ACM MM25 in Ireland, looking forward to seeing you in person
   
 - date: "2025.10"
   content: |-
-    Released <a href="https://arxiv.org/pdf/2510.13515">UniME-V2</a>
+    We release <a href="https://arxiv.org/pdf/2510.13515">UniME-V2</a>
 
 - date: "2025.09"
   content: |-
-    Released <a href="https://arxiv.org/abs/2509.23661">LLaVA-OneVision-1.5</a>
+    We release <a href="https://arxiv.org/abs/2509.23661">LLaVA-OneVision-1.5</a>
   highlight: true
 
 - date: "2025.09"
@@ -50,12 +60,12 @@
 
 - date: "2025.04"
   content: |-
-    Released <a href="https://arxiv.org/abs/2504.16801">DeGLA</a> and <a href="https://arxiv.org/pdf/2504.17432">UniME</a>
+    We release <a href="https://arxiv.org/abs/2504.16801">DeGLA</a> and <a href="https://arxiv.org/pdf/2504.17432">UniME</a>
   highlight: true
 
 - date: "2025.02"
   content: |-
-    Released <a href="https://arxiv.org/abs/2502.12513">RealSyn</a> Dataset
+    We release <a href="https://arxiv.org/abs/2502.12513">RealSyn</a> Dataset
   highlight: true
 
 - date: "2024.12"
@@ -90,7 +100,7 @@
 
 - date: "2023.09"
   content: |-
-    Will attend ICCV 2023 in Paris
+    I will attend ICCV 2023 in Paris, looking forward to seeing you in person
 
 - date: "2023.09"
   content: |-
@@ -104,7 +114,7 @@
 
 - date: "2023.05"
   content: |-
-    Will attend ICLR 2023 in Kigali
+    I will attend ICLR 2023 in Kigali, looking forward to seeing you in person
 
 - date: "2023.01"
   content: |-
@@ -118,11 +128,11 @@
 
 - date: "2022.07"
   content: |-
-    Joined DeepGlint as Algorithm Researcher
+    I join DeepGlint as Algorithm Researcher
 
 - date: "2021.01"
   content: |-
-    Joined MovieBook as Algorithm Engineer
+    I join MovieBook as Algorithm Engineer
 
 - date: "2020.10"
   content: |-
