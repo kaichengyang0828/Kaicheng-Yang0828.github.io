@@ -8,7 +8,7 @@
 - *2012.09 - 2015.06*, Undergraduate, Hebei University of Science and Technology, Shijiazhuang.
 
 # 💻 Work Experience
-- *2022.07 - Now*, DeepGlint, Beijing.
+- *2022.07 - 2026.07*, DeepGlint, Beijing.
 - *2021.01 - 2022.06*, Moviebook, Beijing.
 
 <div style="width: 200px; margin: 0 auto;">
