@@ -40,9 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-// Custom styles for improved layout
-@import "custom";
-
 .paper-box {
     display: flex;
     justify-content: left;
@@ -110,3 +107,6 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+// Custom styles for improved layout
+@import "custom";

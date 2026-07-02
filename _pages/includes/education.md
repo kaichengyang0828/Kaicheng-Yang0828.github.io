@@ -2,7 +2,7 @@
 
 <div class="education-section">
 {% for edu in site.data.education %}
-  <div class="education-item">
+  <div class="education-item reveal-on-scroll">
     <div class="education-header">
       <h3 class="education-degree">{{ edu.degree }}</h3>
       <span class="education-period">{{ edu.period }}</span>

@@ -2,7 +2,7 @@
 
 <div class="experience-section">
 {% for exp in site.data.experience %}
-  <div class="experience-item">
+  <div class="experience-item reveal-on-scroll">
     <div class="experience-header">
       <h3 class="experience-role">{{ exp.role }}</h3>
       <span class="experience-period">{{ exp.period }}</span>
