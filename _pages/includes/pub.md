@@ -6,7 +6,7 @@
 [UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning](https://arxiv.org/pdf/2510.13515?) \\
 Tiancheng Gu\*, **Kaicheng Yang\***, kaichen Zhang, Xiang An, Ziyong Feng, yueyi Zhang, Weidong Cai, Jiankang Deng, Lidong Bing (**Oral**, **Equal First Author**)
 
-[**Arxiv**](https://arxiv.org/pdf/2510.13515?), [**公众号**](https://mp.weixin.qq.com/s/LnSqRpnxH33lzmCAFeGfHA), [**GitHub**](https://github.com/GaryGuTC/UniME-v2), [**Project Websit**](https://garygutc.github.io/UniME-v2/)
+[**Arxiv**](https://arxiv.org/pdf/2510.13515?) [**公众号**](https://mp.weixin.qq.com/s/LnSqRpnxH33lzmCAFeGfHA) [**GitHub**](https://github.com/GaryGuTC/UniME-v2) [**Project Websit**](https://garygutc.github.io/UniME-v2/)
 </div>
 </div>
 
@@ -16,7 +16,7 @@ Tiancheng Gu\*, **Kaicheng Yang\***, kaichen Zhang, Xiang An, Ziyong Feng, yueyi
 [ViCToR: Improving Visual Comprehension via Token Reconstruction for Pretraining LMMs](https://arxiv.org/pdf/2410.14332) \\
 Yin Xie\*, **Kaicheng Yang\***, Peirou Liang\*, Xiang An, Yongle Zhao, Yumeng Wang, Ziyong Feng, Roy Miles, Ismail Elezi, Jiankang Deng (**Equal First Author**)
 
-[**Arxiv**](https://arxiv.org/pdf/2410.14332), [**GitHub**](https://github.com/deepglint/Victor)
+[**Arxiv**](https://arxiv.org/pdf/2410.14332) [**GitHub**](https://github.com/deepglint/Victor)
 </div>
 </div>
 
@@ -26,7 +26,7 @@ Yin Xie\*, **Kaicheng Yang\***, Peirou Liang\*, Xiang An, Yongle Zhao, Yumeng Wa
 [Gradient-Attention Guided Dual-Masking Synergetic Framework for Robust Text-based Person Retrieval](https://aclanthology.org/2025.emnlp-main.14.pdf) \\
 Tianlu Zheng\*, Yifan Zhang\*, Xiang An, Ziyong Feng, **Kaicheng Yang†**, Qichuan Ding (**Corresponding Author**)
 
-[**Arxiv**](https://aclanthology.org/2025.emnlp-main.14.pdf), [**GitHub**](https://github.com/Multimodal-Representation-Learning-MRL/GA-DMS)
+[**Arxiv**](https://aclanthology.org/2025.emnlp-main.14.pdf) [**GitHub**](https://github.com/Multimodal-Representation-Learning-MRL/GA-DMS)
 </div>
 </div>
 
@@ -36,7 +36,7 @@ Tianlu Zheng\*, Yifan Zhang\*, Xiang An, Ziyong Feng, **Kaicheng Yang†**, Qich
 [Decoupled Global-Local Alignment for Improving Compositional Understanding](https://arxiv.org/pdf/2504.16801) \\
 Xiaoxing Hu\*, **Kaicheng Yang\***, Jun Wang, Haoran Xu, Ziyong Feng, Yupei Wang (**Equal First author**)
 
-[**Arxiv**](https://arxiv.org/pdf/2504.16801), [**公众号**](https://mp.weixin.qq.com/s/VC3K96_tKrVbdBux0zsD2Q), [**GitHub**](https://github.com/xiaoxing2001/DeGLA), [**Project Websit**](https://xiaoxing2001.github.io/DeGLA.github.io/)
+[**Arxiv**](https://arxiv.org/pdf/2504.16801) [**公众号**](https://mp.weixin.qq.com/s/VC3K96_tKrVbdBux0zsD2Q) [**GitHub**](https://github.com/xiaoxing2001/DeGLA) [**Project Websit**](https://xiaoxing2001.github.io/DeGLA.github.io/)
 </div>
 </div>
 
@@ -46,7 +46,7 @@ Xiaoxing Hu\*, **Kaicheng Yang\***, Jun Wang, Haoran Xu, Ziyong Feng, Yupei Wang
 [Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs](https://arxiv.org/abs/2504.17432) \\
 Tiancheng Gu\*, **Kaicheng Yang\***, Ziyong Feng, Xingjun Wang, Yanzhao Zhang, Dingkun Long, Yingda Chen, Weidong Cai, Jiankang Deng (**Equal First author**)
 
-[**Arxiv**](https://arxiv.org/abs/2504.17432), [**公众号**](https://mp.weixin.qq.com/s/d4huTt19EWBkvtzAHDI1uQ), [**GitHub**](https://github.com/deepglint/UniME), [**Project Websit**](https://garygutc.github.io/UniME/)
+[**Arxiv**](https://arxiv.org/abs/2504.17432) [**公众号**](https://mp.weixin.qq.com/s/d4huTt19EWBkvtzAHDI1uQ) [**GitHub**](https://github.com/deepglint/UniME) [**Project Websit**](https://garygutc.github.io/UniME/)
 </div>
 </div>
 
@@ -56,7 +56,7 @@ Tiancheng Gu\*, **Kaicheng Yang\***, Ziyong Feng, Xingjun Wang, Yanzhao Zhang, D
 [RealSyn: An Effective and Scalable Multimodal Interleaved Document Transformation Paradigm](https://arxiv.org/pdf/2502.12513) \\
 Tiancheng Gu\*, **Kaicheng Yang\***, Chaoyi Zhang, Yin Xie, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai, Jiankang Deng (**Equal First Author**)
 
-[**Arxiv**](https://arxiv.org/pdf/2502.12513), [**公众号**](https://mp.weixin.qq.com/s/CnuVZMSkYHpFwnfaLZ-3qA), [**GitHub**](https://github.com/deepglint/RealSyn), [**Project Websit**](https://garygutc.github.io/RealSyn/)
+[**Arxiv**](https://arxiv.org/pdf/2502.12513) [**公众号**](https://mp.weixin.qq.com/s/CnuVZMSkYHpFwnfaLZ-3qA) [**GitHub**](https://github.com/deepglint/RealSyn) [**Project Websit**](https://garygutc.github.io/RealSyn/)
 </div>
 </div>
 
@@ -67,7 +67,7 @@ Tiancheng Gu\*, **Kaicheng Yang\***, Chaoyi Zhang, Yin Xie, Xiang An, Ziyong Fen
 [Region-based Cluster Discrimination for Visual Representation Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Xie_Region-based_Cluster_Discrimination_for_Visual_Representation_Learning_ICCV_2025_paper.pdf) \\
 Yin Xie\*, **Kaicheng Yang\***, Xiang An\*, Kun Wu, Yongle Zhao, Weimo Deng, Zimin Ran, Yumeng Wang, Ziyong Feng, Roy Miles, Ismail Elezi, Jiankang Deng (**Highlight**, **Equal First Author**)
 
-[**Arxiv**](https://openaccess.thecvf.com/content/ICCV2025/papers/Xie_Region-based_Cluster_Discrimination_for_Visual_Representation_Learning_ICCV_2025_paper.pdf), [**公众号**](https://mp.weixin.qq.com/s/zblF44G7aVet-jyNM5sGVw), [**GitHub**](https://github.com/deepglint/MVT)
+[**Arxiv**](https://openaccess.thecvf.com/content/ICCV2025/papers/Xie_Region-based_Cluster_Discrimination_for_Visual_Representation_Learning_ICCV_2025_paper.pdf) [**公众号**](https://mp.weixin.qq.com/s/zblF44G7aVet-jyNM5sGVw) [**GitHub**](https://github.com/deepglint/MVT)
 </div>
 </div>
 
@@ -77,7 +77,7 @@ Yin Xie\*, **Kaicheng Yang\***, Xiang An\*, Kun Wu, Yongle Zhao, Weimo Deng, Zim
 [CLIP-CID: Efficient CLIP Distillation via Cluster-Instance Discrimination](https://arxiv.org/pdf/2408.09441) \\
 **Kaicheng Yang\***, Tiancheng Gu\*, Xiang An, Haiqiang Jiang, Xiangzi Dai, Ziyong Feng, Weidong Cai, Jiankang Deng (**First author**)
 
-[**Arxiv**](https://arxiv.org/pdf/2408.09441), [**公众号**](https://mp.weixin.qq.com/s/vb1-nm-PXSJD5Qt-qIifyg)
+[**Arxiv**](https://arxiv.org/pdf/2408.09441) [**公众号**](https://mp.weixin.qq.com/s/vb1-nm-PXSJD5Qt-qIifyg)
 </div>
 </div>
 
@@ -98,7 +98,7 @@ Tiancheng Gu\*, **Kaicheng Yang\***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong
 [RWKV-CLIP: A Robust Vision-Language Representation Learner](https://arxiv.org/abs/2406.06973) \\
 Tiancheng Gu\*, **Kaicheng Yang\***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai, Jiankang Deng (**Equal First author**)
 
-[**Arxiv**](https://arxiv.org/abs/2406.06973), [**Code**](https://github.com/deepglint/RWKV-CLIP), [**公众号**](https://mp.weixin.qq.com/s/0sDHeN3QwF6AdFx3QyOvRw)
+[**Arxiv**](https://arxiv.org/abs/2406.06973) [**Code**](https://github.com/deepglint/RWKV-CLIP) [**公众号**](https://mp.weixin.qq.com/s/0sDHeN3QwF6AdFx3QyOvRw)
 </div>
 </div>
 
@@ -108,7 +108,7 @@ Tiancheng Gu\*, **Kaicheng Yang\***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong
 [Multi-label Cluster Discrimination for Visual Representation Learning](https://arxiv.org/pdf/2407.17331) \\
 Xiang An, **Kaicheng Yang**, Xiangzi Dai, Ziyong Feng, Jiankang Deng
 
-[**Arxiv**](https://arxiv.org/abs/2407.17331), [**Code**](https://github.com/deepglint/unicom), [**公众号**](https://mp.weixin.qq.com/s/K2GbXh6GlV06-6Q4DYbPFg)
+[**Arxiv**](https://arxiv.org/abs/2407.17331) [**Code**](https://github.com/deepglint/unicom) [**公众号**](https://mp.weixin.qq.com/s/K2GbXh6GlV06-6Q4DYbPFg)
 </div>
 </div>
 
@@ -118,7 +118,7 @@ Xiang An, **Kaicheng Yang**, Xiangzi Dai, Ziyong Feng, Jiankang Deng
 [ALIP: Adaptive Language-Image Pre-training with Synthetic Caption](https://arxiv.org/abs/2308.08428) \\
 **Kaicheng Yang**, Jiankang Deng, Xiang An, Jiawei Li, Ziyong Feng, Jia Guo, Jing Yang, Tongliang Liu
 
-[**Arxiv**](https://arxiv.org/abs/2308.08428), [**Code**](https://github.com/deepglint/ALIP), [**公众号**](https://mp.weixin.qq.com/s/lq_coUgV5A_h9RGvYhKaEA)
+[**Arxiv**](https://arxiv.org/abs/2308.08428) [**Code**](https://github.com/deepglint/ALIP) [**公众号**](https://mp.weixin.qq.com/s/lq_coUgV5A_h9RGvYhKaEA)
 </div>
 </div>
 
@@ -128,7 +128,7 @@ Xiang An, **Kaicheng Yang**, Xiangzi Dai, Ziyong Feng, Jiankang Deng
 [Unicom: Universal and Compact Representation Learning for Image Retrieval](https://arxiv.org/abs/2304.05884) \\
 Xiang An, Jiankang Deng, **Kaicheng Yang**, Jiawei Li, Ziyong Feng, Jia Guo, Jing Yang, Tongliang Liu
 
-[**Arxiv**](https://arxiv.org/abs/2304.05884), [**Code**](https://github.com/deepglint/unicom), [**公众号**](https://mp.weixin.qq.com/s/GmrbHexhaJ-3q4-2SW5Wig)
+[**Arxiv**](https://arxiv.org/abs/2304.05884) [**Code**](https://github.com/deepglint/unicom) [**公众号**](https://mp.weixin.qq.com/s/GmrbHexhaJ-3q4-2SW5Wig)
 </div>
 </div>
 
@@ -151,6 +151,5 @@ Wenmeng Yu, Hua Xu, Fanyang Meng, Yilin Zhu, Yixiao Ma, Jiele Wu, Jiyun Zou, **K
 [**Code**](https://github.com/thuiar/MMSA)
 </div>
 </div>
-
 
 

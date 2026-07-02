@@ -5,13 +5,14 @@
         <button type="button" aria-label="Toggle navigation menu"><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="#about-me">
+            <a href="{{ '/#about-me' | relative_url }}" data-section-id="about-me" aria-controls="about-me">
               <span class="masthead__menu-home-label">Homepage</span>
               <span class="masthead__menu-home-caption">Kaicheng Yang</span>
             </a>
           </li>
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% assign section_id = link.url | split: '#' | last %}
+            <li class="masthead__menu-item"><a href="{{ link.url | relative_url }}" data-section-id="{{ section_id }}" aria-controls="{{ section_id }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>

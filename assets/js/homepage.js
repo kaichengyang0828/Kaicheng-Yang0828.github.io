@@ -49,6 +49,29 @@ document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll(".homepage-section[id]")
   );
 
+  navLinks.forEach(function (link) {
+    link.addEventListener("click", function (event) {
+      var hash = link.getAttribute("href").split("#")[1];
+      var target = hash ? document.getElementById(hash) : null;
+
+      if (!target) {
+        return;
+      }
+
+      event.preventDefault();
+      target.scrollIntoView({
+        behavior: reduceMotion ? "auto" : "smooth",
+        block: "start"
+      });
+
+      if (window.history && window.history.replaceState) {
+        window.history.replaceState(null, "", "#" + hash);
+      } else {
+        window.location.hash = hash;
+      }
+    });
+  });
+
   var setCurrentLink = function (hash) {
     navLinks.forEach(function (link) {
       var isCurrent = link === navMap[hash];
