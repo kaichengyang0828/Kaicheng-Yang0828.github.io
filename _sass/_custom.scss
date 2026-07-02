@@ -201,7 +201,7 @@ footer {
   p,
   li,
   dl {
-    line-height: 1.72;
+    line-height: 1.64;
   }
 
   a {
@@ -213,8 +213,8 @@ footer {
 
 .homepage-shell {
   display: grid;
-  gap: 1.5rem;
-  padding-bottom: 2rem;
+  gap: 1.1rem;
+  padding-bottom: 1.2rem;
 }
 
 .homepage-shell #about-me {
@@ -228,7 +228,7 @@ footer {
 .homepage-section {
   position: relative;
   overflow: hidden;
-  padding: clamp(1.35rem, 2vw, 2rem);
+  padding: clamp(1rem, 1.8vw, 1.4rem);
   border: 1px solid var(--home-border);
   border-radius: var(--home-radius-lg);
   background: linear-gradient(180deg, var(--home-surface-strong) 0%, var(--home-surface) 100%);
@@ -260,7 +260,7 @@ footer {
 }
 
 .homepage-section--hero {
-  padding: clamp(1.5rem, 3vw, 2.5rem);
+  padding: clamp(1.05rem, 2vw, 1.45rem);
   border-color: rgba(99, 102, 241, 0.28);
   background:
     radial-gradient(circle at top right, rgba(34, 211, 238, 0.18), transparent 28%),
@@ -276,12 +276,13 @@ footer {
   padding-bottom: 1.4rem;
 }
 
-.homepage-section:not(.homepage-section--hero) > h1 {
+.homepage-section__heading {
   position: relative;
-  margin: 0 0 1.6rem;
-  padding: 0 0 0.9rem;
+  margin: 0 0 1rem;
+  padding: 0 0 0.65rem;
   border-bottom: 1px solid rgba(148, 163, 184, 0.22);
-  font-size: clamp(1.45rem, 2vw, 1.9rem);
+  font-size: clamp(1.15rem, 1.5vw, 1.45rem);
+  font-weight: 700;
   letter-spacing: -0.02em;
 
   &::after {
@@ -289,15 +290,24 @@ footer {
     position: absolute;
     left: 0;
     bottom: -1px;
-    width: 5rem;
+    width: 4rem;
     height: 3px;
     border-radius: 999px;
     background: linear-gradient(90deg, var(--home-accent), var(--home-violet));
   }
 }
 
-.hero-title::before,
-.homepage-section > h1::before {
+.homepage-section__heading--hero {
+  margin-bottom: 0.8rem;
+  border-bottom-color: rgba(191, 219, 254, 0.16);
+  color: #f8fafc;
+
+  &::after {
+    background: linear-gradient(90deg, rgba(103, 232, 249, 1), rgba(196, 181, 253, 0.95));
+  }
+}
+
+.hero-title::before {
   content: none;
 }
 
@@ -314,7 +324,7 @@ footer {
 .hero-card {
   position: relative;
   overflow: hidden;
-  padding: clamp(1.3rem, 2vw, 1.8rem);
+  padding: clamp(1rem, 1.8vw, 1.35rem);
   border: 1px solid rgba(255, 255, 255, 0.16);
   border-radius: 1.35rem;
   background: rgba(10, 17, 35, 0.34);
@@ -332,6 +342,10 @@ footer {
     background: radial-gradient(circle, rgba(34, 211, 238, 0.14) 0%, rgba(34, 211, 238, 0) 72%);
     pointer-events: none;
   }
+}
+
+.hero-card--compact {
+  max-width: 54rem;
 }
 
 .hero-card--secondary {
@@ -361,7 +375,7 @@ footer {
   padding: 0;
   border: 0 !important;
   line-height: 0.98;
-  font-size: clamp(2.55rem, 6vw, 4.35rem);
+  font-size: clamp(1.85rem, 4.2vw, 2.95rem);
 
   span {
     display: block;
@@ -373,17 +387,17 @@ footer {
 
   small {
     display: block;
-    margin-top: 0.55rem;
-    font-size: clamp(1.2rem, 2vw, 1.6rem);
+    margin-top: 0.35rem;
+    font-size: clamp(0.95rem, 1.5vw, 1.2rem);
     font-weight: 600;
     color: rgba(226, 232, 240, 0.8);
   }
 }
 
 .hero-tagline {
-  margin: 1rem 0 0;
-  max-width: 43rem;
-  font-size: 1.05rem;
+  margin: 0.65rem 0 0;
+  max-width: 40rem;
+  font-size: 0.96rem;
   color: rgba(226, 232, 240, 0.9);
 }
 
@@ -396,31 +410,31 @@ footer {
 }
 
 .hero-tags {
-  margin-top: 1.4rem;
+  margin-top: 0.85rem;
 }
 
 .hero-tag {
   display: inline-flex;
   align-items: center;
-  padding: 0.55rem 0.9rem;
+  padding: 0.38rem 0.72rem;
   border: 1px solid rgba(103, 232, 249, 0.18);
   border-radius: 999px;
   background: rgba(15, 23, 42, 0.34);
   color: #dffaff;
-  font-size: 0.92rem;
+  font-size: 0.82rem;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.06);
 }
 
 .hero-actions {
-  margin-top: 1.55rem;
+  margin-top: 0.9rem;
 }
 
 .hero-action {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-height: 2.85rem;
-  padding: 0.8rem 1.2rem;
+  min-height: 2.35rem;
+  padding: 0.58rem 0.95rem;
   border: 1px solid rgba(125, 211, 252, 0.28);
   border-radius: 999px;
   background: linear-gradient(135deg, rgba(34, 211, 238, 0.22), rgba(99, 102, 241, 0.2), rgba(139, 92, 246, 0.22));
@@ -438,6 +452,23 @@ footer {
     background-position: 100% 50%;
     box-shadow: 0 22px 36px rgba(8, 15, 32, 0.28);
   }
+}
+
+.hero-brief,
+.hero-links {
+  margin: 0.85rem 0 0;
+  max-width: 44rem;
+  color: rgba(226, 232, 240, 0.86);
+  font-size: 0.92rem;
+  line-height: 1.56;
+}
+
+.hero-links {
+  margin-top: 0.55rem;
+}
+
+.hero-links a {
+  color: #dffaff;
 }
 
 .hero-metrics {
@@ -717,7 +748,7 @@ footer {
   position: relative;
   z-index: 1;
   margin-left: 0.4rem;
-  padding: 1.05rem 1.1rem 1.05rem 1.55rem;
+  padding: 0.85rem 0.95rem 0.85rem 1.45rem;
   border: 1px solid rgba(148, 163, 184, 0.16);
   border-radius: 1.15rem;
   background: rgba(255, 255, 255, 0.72);
@@ -748,7 +779,7 @@ footer {
   display: grid;
   grid-template-columns: minmax(5.5rem, 7rem) minmax(0, 1fr);
   align-items: start;
-  gap: 1rem;
+  gap: 0.8rem;
 }
 
 .news-item--highlight {
@@ -834,7 +865,7 @@ footer {
   align-items: center;
   justify-content: space-between;
   gap: 0.8rem;
-  margin-bottom: 0.55rem;
+  margin-bottom: 0.35rem;
 }
 
 .education-degree,
@@ -876,7 +907,7 @@ footer {
 }
 
 .service-panel {
-  padding: 1.1rem 1.15rem;
+  padding: 0.95rem 1rem;
   border: 1px solid rgba(148, 163, 184, 0.18);
   border-radius: 1.15rem;
   background: rgba(255, 255, 255, 0.7);
@@ -918,10 +949,10 @@ footer {
 
 .paper-box {
   position: relative;
-  gap: 1.5rem;
+  gap: 1.1rem;
   align-items: flex-start;
   margin-bottom: 1.2rem;
-  padding: 1.4rem;
+  padding: 1.05rem;
   border: 1px solid rgba(148, 163, 184, 0.18);
   border-radius: 1.35rem;
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.78), rgba(244, 248, 255, 0.74));
@@ -967,13 +998,13 @@ footer {
   p:first-child {
     margin-bottom: 0;
     color: var(--home-muted);
-    line-height: 1.8;
+    line-height: 1.65;
 
     a:first-child {
       color: var(--home-ink);
-      font-size: 1.22rem;
+      font-size: 1.08rem;
       font-weight: 700;
-      line-height: 1.45;
+      line-height: 1.35;
       text-decoration: none !important;
 
       &:hover,
@@ -986,16 +1017,16 @@ footer {
   p:last-child {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.65rem;
-    margin-top: 1rem;
+    gap: 0.45rem;
+    margin-top: 0.75rem;
   }
 
   p:last-child a {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    min-height: 2.25rem;
-    padding: 0.5rem 0.9rem;
+    min-height: 2rem;
+    padding: 0.42rem 0.78rem;
     border: 1px solid rgba(99, 102, 241, 0.16);
     border-radius: 999px;
     background: rgba(99, 102, 241, 0.07);
@@ -1145,12 +1176,12 @@ summary:focus-visible,
   }
 
   .paper-box {
-    padding: 1.15rem;
-    gap: 1rem;
+    padding: 0.95rem;
+    gap: 0.8rem;
   }
 
   .paper-box-text p:first-child a:first-child {
-    font-size: 1.08rem;
+    font-size: 1rem;
   }
 }
 

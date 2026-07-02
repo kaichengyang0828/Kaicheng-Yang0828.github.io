@@ -1,5 +1,3 @@
-# 📄 Publications
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2026</div><img src='_pages/includes/image_paper/UniMEV2.jpg' alt="sym" width="320px" height="240px"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -151,5 +149,4 @@ Wenmeng Yu, Hua Xu, Fanyang Meng, Yilin Zhu, Yixiao Ma, Jiele Wu, Jiyun Zou, **K
 [**Code**](https://github.com/thuiar/MMSA)
 </div>
 </div>
-
 

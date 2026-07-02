@@ -1,5 +1,3 @@
-# 💼 Experience
-
 <div class="experience-section">
 {% for exp in site.data.experience %}
   <div class="experience-item reveal-on-scroll">

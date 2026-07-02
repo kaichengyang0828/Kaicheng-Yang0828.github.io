@@ -1,5 +1,3 @@
-# 🎓 Education
-
 <div class="education-section">
 {% for edu in site.data.education %}
   <div class="education-item reveal-on-scroll">

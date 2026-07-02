@@ -1,5 +1,3 @@
-# 🧑‍🏫 Professional Service
-
 <div class="service-section">
   <div class="service-panel reveal-on-scroll">
     <p class="service-panel__label">Conferences</p>
