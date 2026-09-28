@@ -2,6 +2,10 @@
 # Each item should have: date, content (brief), and optional link
 - date: "2026.08"
   content: |-
+    🎉 <strong><a href="https://arxiv.org/pdf/2510.18795">ProCLIP (Highlight)</a></strong> and <strong><a href="https://arxiv.org/pdf/2602.08683">OV-Encoder</a></strong> accepted by NeurIPS 2026
+  highlight: true
+- date: "2026.08"
+  content: |-
     We release <a href="https://arxiv.org/pdf/2608.06060">UniME-R1</a> and <a href="https://arxiv.org/pdf/2608.12898">NaviDC-OCR</a>
   highlight: true
   

@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kaicheng Yang (杨铠成)"
-description              : "Algorithm Researcher at DeepGlint specializing in multimodal representation learning, vision-language pretraining, and contrastive learning"
+title                    : "Kaicheng Yang"
+description              : "Algorithm Researcher at XingChen AGI Lab specializing in Visual Understanding, Multimodal Representation Learning, Agentic RL, and Large-Scale Dataset Construction"
 repository               : "Kaicheng-Yang0828/Kaicheng-Yang0828.github.io"
-url                      : "https://kaichengyang0828.github.io"
+url                      : "https://kaichengyang0828.github.io/Kaicheng-Yang0828.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,14 +22,14 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Kaicheng Yang (杨铠成)"
+  name             : "Kaicheng Yang"
   avatar           : "images/ykc.jpeg"
-  bio              : "DeepGlint"
+  bio              : "XingChen AGI Lab"
   job_title        : "Algorithm Researcher"
   location         : "Beijing"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=AQMkoXIAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=AQMkoXIAAAAJ"
   email            : "kaichengyang0828@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

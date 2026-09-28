@@ -1,21 +1,16 @@
 # Work experience
+- role: "Algorithm Researcher"
+  organization: "XingChen AGI Lab"
+  location: "Beijing, China"
+  period: "2026.07 - Now"
 
 - role: "Algorithm Researcher"
   organization: "DeepGlint"
   location: "Beijing, China"
   period: "2022.07 - 2026.07"
-  type: "Full-time"
-  responsibilities:
-    - "Leading research in multimodal representation learning and vision-language pretraining"
-    - "Developing large-scale data cleaning and processing systems"
-    - "Mentoring interns on multimodal learning, RAG, and Agent systems"
    
 
 - role: "Algorithm Engineer"
   organization: "MovieBook"
   location: "Beijing, China"
   period: "2021.01 - 2022.06"
-  type: "Full-time"
-  responsibilities:
-    - "Developed computer vision and NLP algorithms for media applications"
-    - "Implemented multimodal sentiment analysis systems"
